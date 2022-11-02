@@ -4,7 +4,7 @@
 
 NOTE: The use of recursive method calls is not allowed.
 
-### Create a class named, ArrayProcessing
+### Create a class named, Source.ArrayProcessing
 * The class should have the following fields:
     * One array that will hold 5 objects of type int. You pick the name.
     * One Scanner object. You pick the name.
